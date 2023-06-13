@@ -1,4 +1,4 @@
-# AIML Eurosat Coding Challnge
+# AIML Eurosat Coding Challenge
 
 This Jupyter notebook is part of the [Eurosat Land Cover Classification](https://github.com/phelber/EuroSAT) Coding Challenge. The notebook is written in Python and uses libraries such as PyTorch, torchvision, numpy, matplotlib, seaborn, PIL, and rasterio.
 
